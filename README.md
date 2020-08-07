@@ -10,6 +10,6 @@ NOTE:: Project code not viewable through the schema files - requires importing i
 ###### Project Outcome
 Project definition/explaination available as: [Project Definition](ProjectDefinition.pdf)\
 Final project report available as: [Final Report](ProjectFinalReport.pdf)\
-JADE schema files in [/SchemaFiles](/SchemaFiles)\
-Test data for XML input in [/XMLTestData](/XMLTestData)\
+JADE schema files in: [/SchemaFiles](/SchemaFiles)\
+Test data for XML input in: [/XMLTestData](/XMLTestData)\
 A UML breakdown of application is available on page 4 of the final report.
