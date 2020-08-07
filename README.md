@@ -8,7 +8,7 @@ Completed individually, without collaboration.
 NOTE:: Project code not viewable through the schema files - requires importing into a JADE IDE.
 
 ###### Project Outcome
-Project definition/explaination available as: [Project Milestone 2]("Project Milestone 2".pdf)\
+Project definition/explaination available as: [ProjectReport](ProjectReport.pdf)\
 Final project report available as: [arb142INFO213PM2](arb142INFO213PM2.pdf)\
 JADE schema files in [/SchemaFiles](/SchemaFiles)\
 Test data for XML input in [/XMLTestData](/XMLTestData)\
