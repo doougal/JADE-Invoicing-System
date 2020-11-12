@@ -13,3 +13,8 @@ Final project report available as: [Final Report](ProjectFinalReport.pdf)\
 JADE schema files in: [/SchemaFiles](/SchemaFiles)\
 Test data for XML input in: [/XMLTestData](/XMLTestData)\
 A UML breakdown of application is available on page 4 of the final report.
+
+###### Application Screenshots
+NOTE:: All test data generated with mockaroo
+![Table Example](https://i.postimg.cc/nLXfQyKD/image.png "Invoicing Table")
+![Edit Example](https://i.postimg.cc/GtrfzVDz/image.png "Invoice Editing")
