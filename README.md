@@ -1,20 +1,20 @@
-# JADE-Invoicing-System
-###### Course Project for INFO213, written in JADE
-Produce a basic prototype implementation of a chosen subdomain of [JADE's Terminal Operating System](https://www.jadelogistics.com/products/master-terminal/),
+# About
+A basic prototype implementation of the invoicing subdomain of [JADE's Terminal Operating System](https://www.jadelogistics.com/products/master-terminal/),
 used in ports around New Zealand and the World to manage cargo.
+Written in JADE.
 
-Completed individually, without collaboration.
+[Final Report](ProjectFinalReport.pdf)\
+XML Test data was generated with Mockaroo.
+# Features
+* Import invoices from XML file format.
+* Display of invoices in tabular format.
+* Modification and creation of invoice data.
+* Allocation of objects into containment hierarchies.
+* Error and exception logging to an external file.
 
-NOTE:: Project code not viewable through the schema files - requires importing into a JADE IDE.
+# UML Class Diagram
+![Class Diagram](https://i.postimg.cc/mkDKCCmB/0001.jpg "Class Diagram")
 
-###### Project Outcome
-Project definition/explaination available as: [Project Definition](ProjectDefinition.pdf)\
-Final project report available as: [Final Report](ProjectFinalReport.pdf)\
-JADE schema files in: [/SchemaFiles](/SchemaFiles)\
-Test data for XML input in: [/XMLTestData](/XMLTestData)\
-A UML breakdown of application is available on page 4 of the final report.
-
-###### Application Screenshots
-NOTE:: All test data generated with mockaroo
+# Application Screenshots
 ![Table Example](https://i.postimg.cc/nLXfQyKD/image.png "Invoicing Table")
 ![Edit Example](https://i.postimg.cc/GtrfzVDz/image.png "Invoice Editing")
